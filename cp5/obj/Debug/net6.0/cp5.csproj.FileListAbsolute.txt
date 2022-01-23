@@ -1,0 +1,15 @@
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\cp5.exe
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\cp5.deps.json
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\cp5.runtimeconfig.json
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\cp5.dll
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\ref\cp5.dll
+C:\Users\yaku\Desktop\project\cp5\bin\Debug\net6.0\cp5.pdb
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.csproj.AssemblyReference.cache
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.AssemblyInfoInputs.cache
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.AssemblyInfo.cs
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.csproj.CoreCompileInputs.cache
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.dll
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\ref\cp5.dll
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.pdb
+C:\Users\yaku\Desktop\project\cp5\obj\Debug\net6.0\cp5.genruntimeconfig.cache
