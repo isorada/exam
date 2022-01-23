@@ -214,7 +214,7 @@ const body = document.body
             progButton.innerText="Comp Programming 5"
 
             progButton.onclick = function() {
-                window.open('')
+                window.open('https://github.com/isorada/exam/tree/main/cp5')
             }
         // Display output
             pDiv.append(progButton)
